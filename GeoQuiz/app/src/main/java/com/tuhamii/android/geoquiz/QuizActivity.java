@@ -38,6 +38,7 @@ public class QuizActivity extends AppCompatActivity {
 
     private void updateQuestion(){
         try {
+            // Log.d(TAG,"Updating questions text for question #"+ mCurrentIndex,new Exception());
             int question = mQuestionBank[mCurrentIndex].getTextResId();
             mQuestionTextView.setText(question);
         } catch (ArrayIndexOutOfBoundsException ex){
