@@ -1,4 +1,6 @@
-## The Big Nerd Ranch Guide - 2nd Edition 
+# List of Android Apps I made for education purposes.
+
+### Firt List include books from [The Big Nerd Ranch Guide - 2nd Edition] 
 Total of 8 apps to explore the Android operating system.
 
 * GeoQuiz - App
