@@ -32,8 +32,7 @@
   * In this toy app, you will create beautiful representaion of a sunset over open water while learning about animations.
 
 * Locatr - App
-  * This app lets you query Flicker for the pictures around your current location and display them in a map. In it, you will learn
-  how to use locations services and maps.
+  * This app lets you query Flicker for the pictures around your current location and display them in a map. In it, you will learn how to use locations services and maps.
   
 #### intermediates - Apps
 
@@ -43,6 +42,14 @@
 * Tracker - App
   * Send user location to server every x-amount of seconds.
   
+* freeVPN
+  * Basic VPN service  
+  
+  
 #### advanced - Apps
 * The Quran App
   * Description coming soon.
+* VPN pro
+  * Advanced VPN Application with multiple servers. 
+* Resume App
+  * Building custome app with advanced user interface in an application. 
