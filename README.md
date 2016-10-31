@@ -1,7 +1,6 @@
 # List of Android Apps I made for education purposes.
 
 ### Firt List include books from [The Big Nerd Ranch Guide - 2nd Edition] 
-Total of 8 apps to explore the Android operating system.
 
 * GeoQuiz - App
   * Explore Fundamentals of Android projects, Activity, layouts, and explicit intents.
@@ -30,5 +29,10 @@ Total of 8 apps to explore the Android operating system.
   * This app lets you query Flicker for the pictures around your current location and display them in a map. In it, you will learn
   how to use locations services and maps.
   
+### Start of new Course 
+
+* FHICT-agenda - App
+  * App which shows daily students class schedule.
   
-### End of course / book.
+* Tracker - App
+  * Send user location to server every x-amount of seconds.
