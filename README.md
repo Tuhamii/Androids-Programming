@@ -1,6 +1,12 @@
 # List of Android Apps I made for education purposes.
+* list of 100 Apps
 
-### Firt List include books from [The Big Nerd Ranch Guide - 2nd Edition] 
+### 3 categories [beginners, intermediates, advanced] - Apps
+ * beginners : Exploring Android artitecture system
+ * intermediates : Android apps performing real tasks solving real problems.
+ * advanced : Apps with advanced GUI.
+
+#### beginners - App's
 
 * GeoQuiz - App
   * Explore Fundamentals of Android projects, Activity, layouts, and explicit intents.
@@ -29,10 +35,14 @@
   * This app lets you query Flicker for the pictures around your current location and display them in a map. In it, you will learn
   how to use locations services and maps.
   
-### Start of new Course 
+#### intermediates - Apps
 
 * FHICT-agenda - App
   * App which shows daily students class schedule.
   
 * Tracker - App
   * Send user location to server every x-amount of seconds.
+  
+#### advanced - Apps
+* The Quran App
+  * Description coming soon.
