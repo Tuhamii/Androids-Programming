@@ -36,6 +36,8 @@
   
 * CurrentLocation
   * App shows you your location. Goal of this app is to expolore the Maps API.
+  
+  
 #### intermediates - Apps
 
 * FHICT-agenda - App
