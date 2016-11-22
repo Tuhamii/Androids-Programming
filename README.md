@@ -34,6 +34,10 @@
 * Locatr - App
   * This app lets you query Flicker for the pictures around your current location and display them in a map. In it, you will learn how to use locations services and maps.
   
+* CurrentLocation
+  * App shows you your location. Goal of this app is to expolore the Maps API.
+  
+  
 #### intermediates - Apps
 
 * FHICT-agenda - App
